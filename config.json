@@ -1,0 +1,10 @@
+{
+  "prefix": "!",
+  "token": "ODk1MDMyMzYzNDEzODI3NjE1.YVyp2A.Dwm0GhqhJywVzKIASBDWx2_lC9I",
+
+  "conexaodb" : "127.0.0.1",
+  "userdb" : "root",
+  "senhadb" : "",
+  "db" : "allstar"
+
+}
